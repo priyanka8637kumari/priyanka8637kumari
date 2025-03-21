@@ -1,11 +1,20 @@
 # Hi, I'm Priyanka! 👋
 
-🎓 Aspiring Frontend Developer | 💻 Learning HTML, CSS, JavaScript , Webpack, and GitHub Deployment.
+🎓 Aspiring Frontend Developer | MERN stack learner | 💻 Passionate about Web Development.
 
-## 🌟 Skills
-- **Languages**: HTML, CSS, JavaScript
-- **Agile** methodology
-- **Tools**: GitHub, Webpack, VS Code
+💡 **What I'm working on:**  
+- Building a project using the **MERN stack**.  
+- Exploring **MongoDB Atlas, Express.js, and Node.js** to strengthen my backend skills.  
+- Improving my **GitHub profile** to look more professional. 
+
+🔧 **Tech Stack:**  
+- **Frontend:** HTML, JavaScript, CSS, React, Tailwind CSS, Vite  
+- **Backend (Learning):** Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, Figma, Webpack
+
+ 
+
+
 
 
 
