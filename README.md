@@ -8,7 +8,7 @@
 - Improving my **GitHub profile** to look more professional. 
 
 🔧 **Tech Stack:**  
-- **Frontend:** HTML, JavaScript, CSS, React, Tailwind CSS, Vite  
+- **Frontend:** HTML, JavaScript, CSS, React, Redux, Tailwind CSS, Vite  
 - **Backend (Learning):** Node.js, Express.js, MongoDB  
 - **Tools:** Git, GitHub, Figma, Webpack
 
