@@ -1,6 +1,6 @@
 # Hi, I'm Priyanka! 👋
 
-🎓 Aspiring Frontend Developer | MERN stack learner | 💻 Passionate about Web Development.
+🎓 Aspiring Frontend Developer | Redux-Toolkit learner | 💻 Passionate about Web Development.
 
 💡 **What I'm working on:**  
 - Learnig **Redux-Toolki**t and doing a simple project
