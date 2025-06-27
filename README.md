@@ -14,7 +14,7 @@
 - **Tools:** Git, GitHub, Figma, Webpack
 
 **Feel free to check my work. More about me**
-- [Portfolio Website](priyanka08.netlify.app)
+- [Portfolio Website](https://priyanka08.netlify.app/)
 
  
 
