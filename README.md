@@ -1,9 +1,9 @@
 # I'm Priyanka! 👋
 
- Aspiring Frontend Developer | Redux-Toolkit learner | Looking for internship.
+ Aspiring Frontend Developer | Next.js learner | Looking for internship.
 
-**What I'm working on:**  
-- Redesigning a school site using a headless CMS(Strapi) and dynamic components
+**What I've worked on:**  
+- Redesigned a school site using a headless CMS(Strapi) and dynamic components
 - Complted my first project using **Redux-Toolkit**
 - Complted a project using the **MERN stack**.  
 - Strengthen some backend skills.  
