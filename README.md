@@ -1,6 +1,6 @@
 # I'm Priyanka! 👋
 
- Aspiring Frontend Developer | Next.js learner | Looking for internship.
+ Aspiring Frontend Developer | Flutter learner | Looking for job.
 
 **What I've worked on:**  
 - Redesigned a school site using a headless CMS(Strapi) and dynamic components
