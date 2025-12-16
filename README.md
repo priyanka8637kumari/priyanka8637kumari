@@ -16,7 +16,7 @@ I'm actively looking for frontend developer roles in Stockholm or remote-friendl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, shadcn/ui, Framer Motion  
 **Full-stack & Backend:** REST APIs, Express.js, Node.js, MongoDB, Strapi, Neon  
@@ -25,7 +25,7 @@ I'm actively looking for frontend developer roles in Stockholm or remote-friendl
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 - **Portfolio:** [priyanka08.netlify.app](https://priyanka08.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/priyanka-kumari-995901274](https://www.linkedin.com/in/priyanka-kumari-995901274/)
