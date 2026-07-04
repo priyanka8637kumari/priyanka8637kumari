@@ -31,13 +31,12 @@ I'm currently deepening my data & AI skills and actively looking for frontend or
 
 - Frontend Developer Programme, Hyper Island, Stockholm
 - Python Programming for AI Development, IT-Högskolan, Stockholm
-- Applying to SALT's Data & AI Engineer Program
 
 ---
 
 ## Let's connect
 
-- **Portfolio:** [my portfolio site — add current URL]
+- **Portfolio:** [https://pri08.netlify.app/]
 - **LinkedIn:** [linkedin.com/in/priyanka-kumari-995901274](https://www.linkedin.com/in/priyanka-kumari-995901274/)
 - **Email:** prisri0801@gmail.com
 
