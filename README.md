@@ -36,7 +36,7 @@ I'm currently deepening my data & AI skills and actively looking for frontend or
 
 ## Let's connect
 
-- **Portfolio:** [https://pri08.netlify.app/]
+- **Portfolio:** [pri08.netlify.app/](https://pri08.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/priyanka-kumari-995901274](https://www.linkedin.com/in/priyanka-kumari-995901274/)
 - **Email:** prisri0801@gmail.com
 
