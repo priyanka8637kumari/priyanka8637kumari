@@ -1,40 +1,48 @@
-# Hi, I'm Priyanka! 
+# Hi, I'm Priyanka 👋
 
-**Frontend Developer | Stockholm | Open to Frontend Developer Roles**
+**Frontend Developer · Stockholm, Sweden · Open to Frontend / Data-AI roles**
 
-I'm a frontend developer currently interning at **Swirl**, where I'm working on [Haus](https://www.hausin.app/en), a financial health web app used by real customers in Brazil. I build modern, user-focused interfaces with **React**, **Next.js**, **TypeScript**, and I'm starting to explore mobile development with **Flutter**.
+I'm a frontend developer building toward data & AI engineering. I'm the solo developer of **[Haus](https://hausin.app)** — a live financial-health platform for Brazilian users with a 10-question weighted scoring algorithm, ~100 beta users, bilingual (EN/PT-BR) support, and investment projections charted with Recharts. I also work part-time at **Swirl**, a wine platform startup, where I shipped push notifications and a cross-platform "Send to Friend" deep-linking feature on their live iOS/Android app.
 
-I'm actively looking for frontend developer roles in Stockholm or remote-friendly teams.
-
----
-
-## What I'm working on
-
-- **At Swirl (Sep 2025 – Present):** Contributing to Haus, implementing UI features, integrating REST APIs, and deploying with Next.js, Neon, and Vercel.
-- **Learning Flutter:** Building my first mobile app with multi-page navigation and state management.
-- **Personal projects:** AI-powered tools, full-stack MERN apps, and WebXR experiments.
+I'm currently deepening my data & AI skills and actively looking for frontend or data/AI-adjacent roles in Stockholm's startup ecosystem.
 
 ---
 
-## Tech Stack
+## What I'm building
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, shadcn/ui, Framer Motion  
-**Full-stack & Backend:** REST APIs, Express.js, Node.js, MongoDB, Strapi, Neon  
-**Tools:** Git, GitHub, Vercel, Figma, VS Code, NextAuth, OAuth  
-**Learning:** Flutter (beginner – building mobile app UIs)
+- **Haus** — solo-built, full-stack MVP: weighted financial health scoring, Recharts investment projections, PDF report generation, WCAG-accessible UI, CI/CD via GitHub Actions → Vercel. Live at [hausin.app](https://hausin.app).
+- **Swirl** — part-time frontend developer (Sep 2025–present): built the public Explore page and Share Wine web flow in Next.js, and implemented OneSignal push notifications + Universal Links deep-linking on the Flutter mobile app — including diagnosing Instagram's in-app browser WebView blocking Universal Links.
+- **ML classification project** — trained Logistic Regression and Random Forest models on the Google Play Store dataset (~80% accuracy), including catching and fixing a data-leakage bug. See [google-playstore-rating-prediction](#).
+
+---
+
+## Tech stack
+
+**Frontend:** React, Next.js 15, TypeScript, JavaScript, Tailwind CSS, shadcn/ui
+**Mobile:** Flutter, Dart
+**Backend & APIs:** REST APIs, Node.js, Express.js, PostgreSQL (Neon), MongoDB, Strapi
+**Data & AI:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+**Auth & tooling:** NextAuth, OAuth, Resend, Git, GitHub, Vercel, Figma, GitHub Actions
+**AI-assisted dev:** GitHub Copilot, Claude Code
+
+---
+
+## Background
+
+- Frontend Developer Programme, Hyper Island, Stockholm
+- Python Programming for AI Development, IT-Högskolan, Stockholm
+- Applying to SALT's Data & AI Engineer Program
 
 ---
 
 ## Let's connect
 
-- **Portfolio:** [priyanka08.netlify.app](https://priyanka08.netlify.app/)
+- **Portfolio:** [my portfolio site — add current URL]
 - **LinkedIn:** [linkedin.com/in/priyanka-kumari-995901274](https://www.linkedin.com/in/priyanka-kumari-995901274/)
 - **Email:** prisri0801@gmail.com
 
----
-
-**Currently:** Frontend Developer Intern at Swirl | Studying at Hyper Island, Stockholm  
-**Looking for:** Frontend Developer roles starting now
+**Currently:** Frontend Developer (part-time) at Swirl · Building Haus solo · Studying data & AI
+**Looking for:** Frontend Developer roles, with growing interest in data/AI-adjacent positions, in Stockholm or remote-friendly teams
 
 
  
